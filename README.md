@@ -8,5 +8,5 @@ The program simulation.py takes a value n and generates a configuration of the c
 
 To run the program, just open the terminal and type
 ```
-user$ python3 simulation.py
+python3 simulation.py
 ```
